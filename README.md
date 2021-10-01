@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hey ￼ I'm a full-stack code ninja-in-training at Microverse, a cool coding school :school_satchel:	
 
-<!--
-**wuyepabdul/wuyepabdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You can call me Niko :blush: This is my life in emojis -  ￼ ￼ ￼ ￼ ￼ ￼
 
-Here are some ideas to get you started:
+- ￼ I love building awesome websites with lots of :heart:  
+- ￼ I'm currently brushing up my JavaScript :triumph:
+- ￼ I’m looking to collaborate on any cool projects! :dart:
+- :sushi: Fun fact: I :heart: :ramen: and :sushi:. It's the :bomb:. I also love meaningful tech :rocket:, music :musical_note:, and learning :books: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code ￼: 
+
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="36" src="https://github.com/voodootikigod/logo.js/blob/master/js.png"></code>
+<code><img height="36" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"></code>
+<code><img height="36" src="https://github.com/react-icons/react-icons/blob/master/react-icons.svg"></code>
+<code><img height="36" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
+<code><img height="36" src="https://image.flaticon.com/icons/png/512/919/919842.png"></code>
+<code><img height="36" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png"></code> 
+
+### Tools & Methods :hammer_and_wrench:: 
+
+- :pick: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
+
+### Professional :necktie:: 
+- :star: Remote Pair-Programming, Teamwork, Startups, Mentoring
+
+### Get in touch with me! :slightly_smiling_face:
+- :zap: Github:[@wuyepabdul](https://github.com/wuyepabdul/wuyepabdul)
+- :zap: LinkedIn:[@wuyepabdul](https://www.linkedin.com/in/abdul-wuyep-6a27721b8/)
+ 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/?username=wuyepabdul&show_icons=true&hide_border=true" />

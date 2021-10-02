@@ -1,33 +1,67 @@
-## Hey ￼ I'm a full-stack code ninja-in-training at Microverse, a cool coding school :school_satchel:	
+### Hi there 👋
 
-### You can call me Niko :blush: This is my life in emojis -  ￼ ￼ ￼ ￼ ￼ ￼
+<h1 align="center">Hi, I'm Wuyep Abdul.&nbsp;(wuyepabdul)</h1>
+<h3 align="center">A Full-stack web developer from Nigeria.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M0rrighan&label=Views&color=blue&style=plastic" alt="Radmila" /></p>
 
-- ￼ I love building awesome websites with lots of :heart:  
-- ￼ I'm currently brushing up my JavaScript :triumph:
-- ￼ I’m looking to collaborate on any cool projects! :dart:
-- :sushi: Fun fact: I :heart: :ramen: and :sushi:. It's the :bomb:. I also love meaningful tech :rocket:, music :musical_note:, and learning :books: 
+## **About me** 🙇‍♂️:
 
-### Code ￼: 
+- I'm currently studying at ![](https://img.shields.io/badge/-Microverse-blueviolet) to become a **Full-stack web developer** :computer:
+- I'm doing my best to learn the programming best practices and become a better remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
+- I would love to collaborate and contribute to open source projects. 👯
+- I would like to contribute to the field of `Education Technology in the future.
+- In my free time I love playing video games. I love playing football with friends:
 
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="36" src="https://github.com/voodootikigod/logo.js/blob/master/js.png"></code>
-<code><img height="36" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"></code>
-<code><img height="36" src="https://github.com/react-icons/react-icons/blob/master/react-icons.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-<code><img height="36" src="https://image.flaticon.com/icons/png/512/919/919842.png"></code>
-<code><img height="36" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png"></code> 
+## **Languages & Frameworks** 📶 
 
-### Tools & Methods :hammer_and_wrench:: 
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![Css](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=70&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=d26a6a)
+![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=e98b8b)
 
-- :pick: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack
+## **Tools** 🛠 
 
-### Professional :necktie:: 
-- :star: Remote Pair-Programming, Teamwork, Startups, Mentoring
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
+![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
+![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
 
-### Get in touch with me! :slightly_smiling_face:
-- :zap: Github:[@wuyepabdul](https://github.com/wuyepabdul/wuyepabdul)
-- :zap: LinkedIn:[@wuyepabdul](https://www.linkedin.com/in/abdul-wuyep-6a27721b8/)
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/?username=wuyepabdul&show_icons=true&hide_border=true" />
+## **Github Stats**
+<a align="center" href="https://github.com/wuyepabdul/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyepabdul&show_icons=true&theme=merko" /><br><br><br>
+</a>
+<a align="center" href="https://github.com/wuyepabdul/github-top-languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyepabdul&theme=merko" />
+</a>
+
+<h2 align="left"><b>Connect with me</b> 📫</h2>
+
+<p align="left">
+  <a target="_blank"
+    href="www.linkedin.com/in/abdul-wuyep-6a27721b8/"><img
+    src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+  <a target="_blank"
+    href="mailto:wuyepabdul@gmail.com"><img
+    src="https://img.shields.io/badge/-Google-rgb(67%2C%202%2C%20151)?style=for-the-badge&logo=Yahoo&logoColor=white"></img></a>
+
+</p>
+
+
+
+
+
+<!--
+**wuyepabdul/wuyepabdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

@@ -39,7 +39,7 @@
 
 <p align="left">
   <a target="_blank"
-    href="www.linkedin.com/in/abdul-wuyep-6a27721b8/"><img
+    href="https://www.linkedin.com/in/abdul-wuyep/"><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
   <a target="_blank"
     href="mailto:wuyepabdul@gmail.com"><img

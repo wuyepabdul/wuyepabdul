@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Wuyep Abdul.&nbsp;(wuyepabdul)</h1>
 <h3 align="center">A Full-stack web developer from Nigeria.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M0rrighan&label=Views&color=blue&style=plastic" alt="Radmila" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wuyepabdul&label=Views&color=blue&style=plastic" alt="Wuyep" /></p>
 
 ## **About me** 🙇‍♂️:
 

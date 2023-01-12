@@ -6,7 +6,7 @@
 
 ## **About me** 🙇‍♂️:
 
-- I'm currently studying at ![](https://img.shields.io/badge/-Microverse-blueviolet) to become a **Full-stack web developer** :computer:
+- I'm self-employed and working on my personal projects as well as freelance projects as a **Full-stack web developer** :computer:
 - I'm doing my best to learn the programming best practices and become a better remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
 - I would love to collaborate and contribute to open source projects. 👯
 - I would like to contribute to the field of `Education Technology in the future.
